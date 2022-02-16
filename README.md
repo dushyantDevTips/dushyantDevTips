@@ -1,26 +1,3 @@
-<style>
-table {width:100%; table-layout:fixed;}
-th {
-  border: none!important;
-  text-align:start;
-}
-td {
-  border: none!important;
-  text-align:start;
-  width:20%;
-}
-.stats {
-  width:50%
-}
-.graph {
-  width:100
-}
-.skills{
-  padding:5px;
-  display:block;
-}
-</style>
-
 <h2 align="center">
     नमस्ते (Namaste) & Hello World, Welcome to my profile.
 </h2>
@@ -123,7 +100,7 @@ console.log(me.greet());
       <!-- Kubernetes -->
       <img align="left" alt="Kubernetes" width="30px" class="skills"  src="/assets/icons/kubernetes.svg" />
       <!-- GitHub Actions -->
-      <img  align="left" alt="GitHub Actions" width="30px" class="skills"  src="/assets/icons/gitHub_actions.svg" />
+      <img align="left" alt="GitHub Actions" width="30px" class="skills"  src="/assets/icons/github_actions.svg"/>
       <!-- Git -->
       <img  align="left" alt="Git" width="30px" class="skills"  src="/assets/icons/git.svg" />
       <!-- Gitlab -->
