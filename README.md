@@ -133,7 +133,7 @@ console.log(me.greet());
     <span class="stats">
       <img
           height="160em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html,css,c_sharp&hide_border=true&bg_color=021624"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=021624"
       />
     </span>
     <span class="graph">
