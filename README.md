@@ -1,4 +1,4 @@
-<h2 align="center"> नमस्ते (Namaste) & Hello World, Welcome to my profile.</h2>
+<h1 align="center"> नमस्ते (Namaste) & Hello World, Welcome to my profile.</h1>
 <h1 align="center">🙏</h1>
 
 ```javascript
