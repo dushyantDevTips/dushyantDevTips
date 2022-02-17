@@ -150,8 +150,29 @@ console.log(me.greet());
 <br/>
 
 
-
 ---
+
+<h4 align="center"> Get in touch with me here </h4>
+<span align=”center”>
+  <a target="_blank" href="https://www.linkedin.com/in/dushyantdevtips/" style="padding:5px">
+  <img src="https://img.shields.io/badge/LinkedIn-DushyantDevTips-ededed?style=flat-square&logo=linkedin&labelColor=0A66C2">
+  </a>
+
+  <!-- Twitter -->
+  <a target="_blank" href="https://twitter.com/dushyantDevTips" style="padding:5px">
+  <img src="https://img.shields.io/badge/Twitter-@dushyantDevTips-ededed?style=flat-square&logo=twitter&labelColor=252525">
+  </a>
+
+  <!-- Discord -->
+  <a target="_blank" href="https://discordapp.com/users/655147188254408733" style="padding:5px">
+  <img src="https://img.shields.io/badge/Discord-DushyantDevTips-ededed?style=flat-square&logo=discord&labelColor=fff">
+  </a>
+
+  <!-- Email -->
+  <a target="_blank" href="mailto:dushyant@devtipsmedia.com" style="padding:5px">
+  <img src="https://img.shields.io/badge/Email-dushyant@devtipsmedia.com-ededed?style=flat-square&logo=maildotru&labelColor=252525">
+  </a>
+</span>
   <h4 align="center">My Github Stats</h4>
  
   <p align="center">
