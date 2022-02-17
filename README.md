@@ -43,80 +43,80 @@ console.log(me.greet());
     <!-- Front-end -->
     <td>
         <!-- HTML -->
-        <img  align="left" alt="html" width="30px" class="skills"  src="/assets/icons/html.svg" />
+        <img  align="left" alt="html" width="30px" class="skills" style="padding:5px"  src="/assets/icons/html.svg" />
         <!-- Css -->
-        <img align="left" alt="css" width="30px" class="skills" src="/assets/icons/css.svg"/>
+        <img align="left" alt="css" width="30px" class="skills" style="padding:5px" src="/assets/icons/css.svg"/>
         <!-- Js -->
-        <img align="left" alt="Javascript" width="30px" class="skills" src="/assets/icons/js.svg"/>
+        <img align="left" alt="Javascript" width="30px" class="skills" style="padding:5px" src="/assets/icons/js.svg"/>
         <!-- sass -->
-        <img align="left" alt="sass" width="30px" class="skills" src="/assets/icons/sass.svg"/>
+        <img align="left" alt="sass" width="30px" class="skills" style="padding:5px" src="/assets/icons/sass.svg"/>
         <!-- Bootstrap -->
-        <img align="left" alt="Bootstrap" width="30px" class="skills" src="/assets/icons/bootstrap.svg"/>
+        <img align="left" alt="Bootstrap" width="30px" class="skills" style="padding:5px" src="/assets/icons/bootstrap.svg"/>
         <!-- react Js -->
-        <img align="left" alt="ReactJs" width="30px" class="skills" src="/assets/icons/react.svg"/>
+        <img align="left" alt="ReactJs" width="30px" class="skills" style="padding:5px" src="/assets/icons/react.svg"/>
         <!--Material ui -->
-        <img align="left" alt="Material ui" width="30px" class="skills" src="/assets/icons/material_ui.svg"/>
+        <img align="left" alt="Material ui" width="30px" class="skills" style="padding:5px" src="/assets/icons/material_ui.svg"/>
         <!-- vue Js -->
-        <img align="left" alt="VueJs" width="30px" class="skills" src="/assets/icons/vue.svg"/>
+        <img align="left" alt="VueJs" width="30px" class="skills" style="padding:5px" src="/assets/icons/vue.svg"/>
         <!--vuetify -->
-        <img align="left" alt="Vuetify" width="30px" class="skills" src="/assets/icons/vuetify.svg"/>
+        <img align="left" alt="Vuetify" width="30px" class="skills" style="padding:5px" src="/assets/icons/vuetify.svg"/>
         <!-- Webpack -->
-        <img align="center" alt="Webpack" width="30px" class="skills" src="/assets/icons/webpack.svg"/>
+        <img align="center" alt="Webpack" width="30px" class="skills" style="padding:5px" src="/assets/icons/webpack.svg"/>
     </td>
     <!-- Back-end -->
     <td>
       <!-- NodeJs -->
-      <img  align="left" alt="node js" width="30px" class="skills"  src="/assets/icons/node.svg" />
+      <img  align="left" alt="node js" width="30px" class="skills" style="padding:5px"  src="/assets/icons/node.svg" />
       <!-- Express -->
-      <img  align="left" alt="express" width="30px" class="skills"  src="/assets/icons/express.svg" />
+      <img  align="left" alt="express" width="30px" class="skills" style="padding:5px"  src="/assets/icons/express.svg" />
       <!-- php -->
-      <img  align="left" alt="php" width="30px" class="skills"  src="/assets/icons/php.svg" />
+      <img  align="left" alt="php" width="30px" class="skills" style="padding:5px"  src="/assets/icons/php.svg" />
       <!-- php -->
-      <img  align="center" alt="laravel" width="30px" class="skills"  src="/assets/icons/laravel.svg" />
+      <img  align="center" alt="laravel" width="30px" class="skills" style="padding:5px"  src="/assets/icons/laravel.svg" />
     </td>
     <!-- DBA -->
     <td>
       <!-- mysql -->
-      <img  align="left" alt="mysql" width="30px" class="skills"  src="/assets/icons/mysql.svg" />
+      <img  align="left" alt="mysql" width="30px" class="skills" style="padding:5px"  src="/assets/icons/mysql.svg" />
       <!-- PostgreSQL -->
-      <img  align="left" alt="PostgreSQL" width="30px" class="skills"  src="/assets/icons/postgresql.svg" />
+      <img  align="left" alt="PostgreSQL" width="30px" class="skills" style="padding:5px"  src="/assets/icons/postgresql.svg" />
         <!-- MongoDB -->
-      <img  align="left" alt="MongoDB" width="30px" class="skills"  src="/assets/icons/mongodb.svg" />
+      <img  align="left" alt="MongoDB" width="30px" class="skills" style="padding:5px"  src="/assets/icons/mongodb.svg" />
       <!-- Sequelize -->
-      <img  align="left" alt="Sequelize" width="30px" class="skills"  src="/assets/icons/sequelize.svg" />
+      <img  align="left" alt="Sequelize" width="30px" class="skills" style="padding:5px"  src="/assets/icons/sequelize.svg" />
       <!-- Prisma -->
-      <img  align="left" alt="Prisma" width="30px" class="skills"  src="/assets/icons/prisma.svg" />
+      <img  align="left" alt="Prisma" width="30px" class="skills" style="padding:5px"  src="/assets/icons/prisma.svg" />
     </td>
     <!-- DevOps -->
     <td>
       <!-- AWS -->
-      <img align="left" alt="AWS" width="30px" class="skills" src="/assets/icons/aws.svg" />
+      <img align="left" alt="AWS" width="30px" class="skills" style="padding:5px" src="/assets/icons/aws.svg" />
       <!-- gcp -->
-      <img align="left" alt="Google Cloud Platform" width="30px" class="skills" src="/assets/icons/gcp.svg" />
+      <img align="left" alt="Google Cloud Platform" width="30px" class="skills" style="padding:5px" src="/assets/icons/gcp.svg" />
       <!-- DigitalOcean -->
-      <img  align="left" alt="DigitalOcean" width="30px" class="skills"  src="/assets/icons/digitalocean.svg" />
+      <img  align="left" alt="DigitalOcean" width="30px" class="skills" style="padding:5px"  src="/assets/icons/digitalocean.svg" />
       <!-- docker -->
-      <img  align="left" alt="docker" width="30px" class="skills"  src="/assets/icons/docker.svg" />
+      <img  align="left" alt="docker" width="30px" class="skills" style="padding:5px"  src="/assets/icons/docker.svg" />
       <!-- Kubernetes -->
-      <img align="left" alt="Kubernetes" width="30px" class="skills"  src="/assets/icons/kubernetes.svg" />
+      <img align="left" alt="Kubernetes" width="30px" class="skills" style="padding:5px"  src="/assets/icons/kubernetes.svg" />
       <!-- GitHub Actions -->
-      <img align="left" alt="GitHub Actions" width="30px" class="skills"  src="/assets/icons/github_actions.svg"/>
+      <img align="left" alt="GitHub Actions" width="30px" class="skills" style="padding:5px"  src="/assets/icons/github_actions.svg"/>
       <!-- Git -->
-      <img  align="left" alt="Git" width="30px" class="skills"  src="/assets/icons/git.svg" />
+      <img  align="left" alt="Git" width="30px" class="skills" style="padding:5px"  src="/assets/icons/git.svg" />
       <!-- Gitlab -->
-      <img  align="left" alt="Gitlab" width="30px" class="skills"  src="/assets/icons/gitlab.svg" />
+      <img  align="left" alt="Gitlab" width="30px" class="skills" style="padding:5px"  src="/assets/icons/gitlab.svg" />
     </td>
     <td>
       <!-- tailwind css -->
-      <img  align="left" alt="tailwind css" width="30px" class="skills" src="/assets/icons/tailwind_css.svg"/>
+      <img  align="left" alt="tailwind css" width="30px" class="skills" style="padding:5px" src="/assets/icons/tailwind_css.svg"/>
       <!-- GO -->
-      <img  align="left" alt="GO Golang" width="30px" class="skills" src="/assets/icons/go.svg"/>
+      <img  align="left" alt="GO Golang" width="30px" class="skills" style="padding:5px" src="/assets/icons/go.svg"/>
       <!-- TypeScript -->
-      <img  align="left" alt="TypeScript" width="30px" class="skills" src="/assets/icons/typescript.svg"/>
+      <img  align="left" alt="TypeScript" width="30px" class="skills" style="padding:5px" src="/assets/icons/typescript.svg"/>
       <!-- Jenkins -->
-      <img  align="left" alt="Gitlab" width="30px" class="skills"  src="/assets/icons/jenkins.svg" />
+      <img  align="left" alt="Gitlab" width="30px" class="skills" style="padding:5px"  src="/assets/icons/jenkins.svg" />
       <!-- Terraform -->
-      <img  align="left" alt="Terraform" width="30px" class="skills"  src="/assets/icons/terraform.svg" />
+      <img  align="left" alt="Terraform" width="30px" class="skills" style="padding:5px"  src="/assets/icons/terraform.svg" />
     </td>
   </tr>
 </table>
