@@ -122,6 +122,30 @@ console.log(me.greet());
 </table>
 
 ---
+<h4 align="center">Software I use</h4>
+<!-- Pop_os -->
+<img  align="left" alt="Pop os" style="padding:5px" width="30px" class="tools"  src="/assets/icons/pop_os.svg" />
+
+<!-- VS Code -->
+<img  align="left" alt="Visual Studio Code" style="padding:5px" width="30px" class="tools"  src="/assets/icons/vscode.svg" />
+
+<!-- Figma -->
+<img  align="left" style="padding:5px" alt="Figma" width="30px" class="tools"  src="/assets/icons/figma.svg" />
+
+<!-- Canva -->
+<img  align="left" alt="Canva" style="padding:5px" width="30px" class="tools"  src="/assets/icons/canva.svg" />
+
+<!-- Postman -->
+<img  align="left" alt="Postman" style="padding:5px" width="30px" class="tools"  src="/assets/icons/postman.svg" />
+
+<!-- Notion -->
+<img  align="left" alt="Notion" style="padding:5px" width="30px" class="tools"  src="/assets/icons/notion.svg" />
+
+<!-- Jira -->
+<img  align="left" alt="Jira" style="padding:5px" width="30px" class="tools"  src="/assets/icons/jira.svg" />
+
+<br/>
+---
   <h4 align="center">My Github Stats</h4>
  
   <p align="center">
