@@ -173,6 +173,10 @@ console.log(me.greet());
   <img src="https://img.shields.io/badge/Email-dushyant@devtipsmedia.com-ededed?style=flat-square&logo=maildotru&labelColor=252525">
   </a>
 </span>
+
+---
+
+
   <h4 align="center">My Github Stats</h4>
  
   <p align="center">
@@ -180,7 +184,6 @@ console.log(me.greet());
       <img
         id=""
         height="160em"
-        style="padding:0px"
         src="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=021624&hide_border=true"
         />
     </span>
