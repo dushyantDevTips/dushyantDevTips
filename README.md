@@ -123,6 +123,7 @@ console.log(me.greet());
 
 ---
 <h4 align="center">Software I use</h4>
+<span align=”center”>
 <!-- Pop_os -->
 <img  align="left" alt="Pop os" style="padding:5px" width="30px" class="tools"  src="/assets/icons/pop_os.svg" />
 
@@ -144,7 +145,8 @@ console.log(me.greet());
 <!-- Jira -->
 <img  align="left" alt="Jira" style="padding:5px" width="30px" class="tools"  src="/assets/icons/jira.svg" />
 
-<br/>
+</span>
+
 ---
   <h4 align="center">My Github Stats</h4>
  
