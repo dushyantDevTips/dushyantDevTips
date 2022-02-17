@@ -1,5 +1,8 @@
-<h1 align="center"> नमस्ते (Namaste) & Hello World, Welcome to my profile.</h1>
-<h1 align="center">🙏</h1>
+<h1 align="center"> नमस्ते (Namaste) & Hello World, Welcome to my profile. 
+
+<br/>
+🙏
+</h1>
 
 ```javascript
 const dushyant = {
@@ -16,7 +19,7 @@ console.log(me.greet());
 //but that hide and sike champion has given me nightmares in the past.
 ```
 ---
-<h4 align="center">Technology I like to work with</h4>
+<h4 align="center">Tech I work with</h4>
 
 <table>
   <tr>
