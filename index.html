@@ -3,13 +3,44 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js" defer></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dushyant |DevTips Media</title>
   </head>
   <body>
-    <div id="app">
-      TO BE COMPLETED...
-    </div>
+    <header class="primary-header flex">
+      <div>
+        <img
+          src="/assets/images/logo.png"
+          alt="DevTips Media Logo"
+          class="logo"
+          width="100px"
+          height="100px"
+        />
+      </div>
 
+      <button
+        class="mobile-nav-toggle"
+        aria-controls="primary-navigation"
+        aria-expanded="false"
+      >
+        <span class="sr-only">Menu</span>
+      </button>
+
+      <nav>
+        <ul
+          id="primary-navigation"
+          class="primary-navigation underline-indicators flex"
+          data-visible="false"
+        >
+          <li class="active"><a href="index.html">HOME</a></li>
+          <li><a class="uppercase text-white letter-spacing-2" href="">ABOUT</a></li>
+          <li><a class="uppercase text-white letter-spacing-2" href="">PORTFOLIO</a></li>
+          <li><a class="uppercase text-white letter-spacing-2" href="">BLOG</a></li>
+          <li><a class="uppercase text-white letter-spacing-2" href="">CONTACT</a></li>
+        </ul>
+      </nav>
+    </header>
   </body>
 </html>
