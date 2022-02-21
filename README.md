@@ -139,11 +139,11 @@ console.log(me.greet());
 <!-- Postman -->
 <img  align="left" alt="Postman" style="padding:5px" width="30px" class="tools"  src="/assets/icons/postman.svg" />
 
-<!-- Notion -->
-<img  align="left" alt="Notion" style="padding:5px" width="30px" class="tools"  src="/assets/icons/notion.svg" />
-
 <!-- Jira -->
 <img  align="left" alt="Jira" style="padding:5px" width="30px" class="tools"  src="/assets/icons/jira.svg" />
+
+<!-- Notion -->
+<img  align="left" alt="Notion" style="padding:5px" width="30px" class="tools"  src="/assets/icons/notion.svg" />
 
 </span>
 
