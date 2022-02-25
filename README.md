@@ -171,9 +171,20 @@ console.log(me.greet());
 <a href="https://pop.system76.com/" target="_blank">
 <img  align="left" alt="Pop os" style="padding:5px" width="30px" class="tools"  src="/assets/icons/pop_os.svg"/></a>
 
+<!-- mac os-->
+<a href="https://www.apple.com/macos" target="_blank">
+<img  align="left" alt="mac os" style="padding:5px" width="30px" class="tools"  src="/assets/icons/macos.svg"/></a>
+
+<!-- Ubuntu-->
+<a href="https://ubuntu.com/" target="_blank">
+<img  align="left" alt="Ubuntu Linux" style="padding:5px" width="30px" class="tools"  src="/assets/icons/ubuntu.svg"/></a>
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank">
 <img  align="left" alt="Visual Studio Code" style="padding:5px" width="30px" class="tools"  src="/assets/icons/vscode.svg"/></a>
+
+<!-- Vim -->
+<a href="https://www.vim.org/" target="_blank">
+<img  align="left" alt="Vim" style="padding:5px" width="30px" class="tools"  src="/assets/icons/vim.svg"/></a>
 
 <!-- Hyper.js -->
 <a href="https://hyper.is/" target="_blank">
@@ -203,6 +214,12 @@ console.log(me.greet());
 <a href="https://www.notion.so/" target="_blank">
 <img  align="left" alt="Notion" style="padding:5px" width="30px" class="tools"  src="/assets/icons/notion.svg"/></a>
 
+<!-- Slack -->
+<a href="https://slack.com/" target="_blank">
+<img  align="left" alt="Slack" style="padding:5px" width="30px" class="tools"  src="/assets/icons/slack.svg"/></a>
+
+
+
 </span>
 
 <br/>
@@ -229,6 +246,12 @@ console.log(me.greet());
   <a target="_blank" href="mailto:dushyant@devtipsmedia.com" style="padding:5px">
   <img src="https://img.shields.io/badge/Email-dushyant@devtipsmedia.com-ededed?style=flat-square&logo=maildotru&labelColor=252525">
   </a>
+
+  <!-- Discussion -->
+  <a href="https://github.com/dushyantDevTips/dushyantDevTips/discussions/categories/q-a" style="padding:5px">
+  <img src="https://img.shields.io/badge/Discussion-Drop%20by%20for%20a%20quick%20Discussion-ededed?style=flat-square&logo=GitHub&labelColor=252525">
+  </a>
+
 </span>
 
 ---
