@@ -1,4 +1,4 @@
-<h1 align="center"> नमस्ते (Namaste) & Hello World, Welcome to my profile. 
+<h1 align="center"> नमस्ते (Namaste) & Hello World, Welcome to my profile.
 
 <br/>
 🙏
@@ -6,19 +6,27 @@
 
 ```javascript
 const dushyant = {
-    pronouns:           () => "He" | "Him",
-    role:               () => "Full-stack Developer",
-    language_spoken:    () => ["en-US, hi-IN", "gu-IN"],
-    interested_about:   () => ["Web Development", "Mobile Development", "AI/ML", "Blockchain"],
-    greet:              () => "I'm glad you stopped by; I hope you find some of my work interesting."
+  pronouns: () => "He" | "Him",
+  role: () => "Full-stack Developer",
+  language_spoken: () => ["en-US, hi-IN", "gu-IN"],
+  interested_about: () => [
+    "Web Development",
+    "Mobile Development",
+    "AI/ML",
+    "Blockchain",
+  ],
+  greet: () =>
+    "I'm glad you stopped by; I hope you find some of my work interesting.",
 };
 const me = dushyant;
 console.log(me.greet());
 
-//I know ; is not required anymore, 
+//I know ; is not required anymore,
 //but that hide and sike champion has given me nightmares in the past.
 ```
+
 ---
+
 <h4 align="center">Tech I work with.</h4>
 
 <table>
@@ -91,32 +99,44 @@ console.log(me.greet());
       <a href="https://www.mysql.com/" target="_blank">
       <img  align="left" alt="mysql" width="30px" class="skills" style="padding:5px"  src="/assets/icons/mysql.svg"/></a>
       <!-- PostgreSQL -->
-      <img  align="left" alt="PostgreSQL" width="30px" class="skills" style="padding:5px"  src="/assets/icons/postgresql.svg" />
-        <!-- MongoDB -->
-      <img  align="left" alt="MongoDB" width="30px" class="skills" style="padding:5px"  src="/assets/icons/mongodb.svg" />
-      <!-- Sequelize -->
-      <img  align="left" alt="Sequelize" width="30px" class="skills" style="padding:5px"  src="/assets/icons/sequelize.svg" />
+      <a href="https://www.postgresql.org/ " target="_blank">
+      <img  align="left" alt="PostgreSQL" width="30px" class="skills" style="padding:5px"  src="/assets/icons/postgresql.svg"/></a>
+        <!-- MongoDB  -->
+      <a href="https://www.mongodb.com/" target="_blank">
+      <img  align="left" alt="MongoDB" width="30px" class="skills" style="padding:5px"  src="/assets/icons/mongodb.svg"/></a>
+      <!-- Sequelize  -->
+      <a href="https://sequelize.org/" target="_blank">
+      <img  align="left" alt="Sequelize" width="30px" class="skills" style="padding:5px"  src="/assets/icons/sequelize.svg"/></a>
       <!-- Prisma -->
-      <img  align="left" alt="Prisma" width="30px" class="skills" style="padding:5px"  src="/assets/icons/prisma.svg" />
+      <a href="https://www.prisma.io/ " target="_blank">
+      <img  align="left" alt="Prisma" width="30px" class="skills" style="padding:5px"  src="/assets/icons/prisma.svg"/></a>
     </td>
     <!-- DevOps -->
     <td>
-      <!-- AWS -->
-      <img align="left" alt="AWS" width="30px" class="skills" style="padding:5px" src="/assets/icons/aws.svg" />
+      <!-- AWS  -->
+      <a href="https://aws.amazon.com/" target="_blank">
+      <img align="left" alt="AWS" width="30px" class="skills" style="padding:5px" src="/assets/icons/aws.svg"/></a>
       <!-- gcp -->
-      <img align="left" alt="Google Cloud Platform" width="30px" class="skills" style="padding:5px" src="/assets/icons/gcp.svg" />
+      <a href="https://cloud.google.com/" target="_blank">
+      <img align="left" alt="Google Cloud Platform" width="30px" class="skills" style="padding:5px" src="/assets/icons/gcp.svg" /></a>
       <!-- DigitalOcean -->
-      <img  align="left" alt="DigitalOcean" width="30px" class="skills" style="padding:5px"  src="/assets/icons/digitalocean.svg" />
+      <a href="https://m.do.co/c/f91b02103d21" target="_blank">
+      <img  align="left" alt="DigitalOcean" width="30px" class="skills" style="padding:5px"  src="/assets/icons/digitalocean.svg" /></a>
       <!-- docker -->
-      <img  align="left" alt="docker" width="30px" class="skills" style="padding:5px"  src="/assets/icons/docker.svg" />
+      <a href="https://www.docker.com/" target="_blank">
+      <img  align="left" alt="docker" width="30px" class="skills" style="padding:5px"  src="/assets/icons/docker.svg" /></a>
       <!-- Kubernetes -->
-      <img align="left" alt="Kubernetes" width="30px" class="skills" style="padding:5px"  src="/assets/icons/kubernetes.svg" />
+      <a href="https://kubernetes.io/" target="_blank">
+      <img align="left" alt="Kubernetes" width="30px" class="skills" style="padding:5px"  src="/assets/icons/kubernetes.svg" /></a>
       <!-- GitHub Actions -->
-      <img align="left" alt="GitHub Actions" width="30px" class="skills" style="padding:5px"  src="/assets/icons/github_actions.svg"/>
-      <!-- Git -->
-      <img  align="left" alt="Git" width="30px" class="skills" style="padding:5px"  src="/assets/icons/git.svg" />
+      <a href="https://github.com/features/actions/" target="_blank">
+      <img align="left" alt="GitHub Actions" width="30px" class="skills" style="padding:5px"  src="/assets/icons/github_actions.svg"/></a>
+      <!-- Git  -->
+      <a href="https://git-scm.com/" target="_blank">
+      <img  align="left" alt="Git" width="30px" class="skills" style="padding:5px"  src="/assets/icons/git.svg" /></a>
       <!-- Gitlab -->
-      <img  align="left" alt="Gitlab" width="30px" class="skills" style="padding:5px"  src="/assets/icons/gitlab.svg" />
+      <a href="https://about.gitlab.com/" target="_blank">
+      <img  align="left" alt="Gitlab" width="30px" class="skills" style="padding:5px"  src="/assets/icons/gitlab.svg" /></a>
     </td>
   </tr>
 </table>
@@ -187,7 +207,6 @@ console.log(me.greet());
 
 <br/>
 
-
 ---
 
 <h4 align="center"> Best way to get in touch.</h4>
@@ -214,7 +233,6 @@ console.log(me.greet());
 
 ---
 
-
   <h4 align="center">My Github Stats</h4>
  
   <p align="center">
@@ -239,6 +257,6 @@ console.log(me.greet());
     </span>  
   </p>
 
-
 <!-- Art image -->
+
 <span align="center"><a href="https://blog.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/socialQR.png" /></a></span>
