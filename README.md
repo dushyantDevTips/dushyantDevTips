@@ -169,7 +169,6 @@ console.log(me.greet());
 ---
 
 <h4 align="center">Tech I'm learning.</h4>
-<span align=”center”>
   <!-- tailwind css  -->
   <a href="https://tailwindcss.com/" target="_blank">
   <img  align="left" alt="tailwind css" width="30px" class="skills" style="padding:5px" src="/assets/icons/tailwind_css.svg"/></a>
@@ -185,13 +184,12 @@ console.log(me.greet());
   <!-- Terraform -->
   <a href="https://www.terraform.io/" target="_blank">
   <img  align="left" alt="Terraform" width="30px" class="skills" style="padding:5px"  src="/assets/icons/terraform.svg"/></a>
-</span>
+
 <br/>
 
 ---
 
 <h4 align="center">Software I use for development.</h4>
-<span align=”center”>
 <!-- Pop_os -->
 <a href="https://pop.system76.com/" target="_blank">
 <img  align="left" alt="Pop os" style="padding:5px" width="30px" class="tools"  src="/assets/icons/pop_os.svg"/></a>
@@ -243,16 +241,12 @@ console.log(me.greet());
 <a href="https://slack.com/" target="_blank">
 <img  align="left" alt="Slack" style="padding:5px" width="30px" class="tools"  src="/assets/icons/slack.svg"/></a>
 
-
-
-</span>
-
 <br/>
 
 ---
 
 <h4 align="center"> Best way to get in touch.</h4>
-<span align=”center”>
+
   <a target="_blank" href="https://www.linkedin.com/in/dushyantdevtips/" style="padding:5px">
   <img src="https://img.shields.io/badge/LinkedIn-DushyantDevTips-ededed?style=flat-square&logo=linkedin&labelColor=0A66C2">
   </a>
