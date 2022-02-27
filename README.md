@@ -275,7 +275,7 @@ console.log(me.greet());
     <span class="graph">
       <img
           width="750em"
-          src="https://activity-graph.herokuapp.com/graph?username=dushyantDevTips&bg_color=021624&color=7E3ACD&line=7E3ACD&area=true&point=fff&hide_border:true&custom_title=Contributions"
+          src="https://git-profile-activity-graph.herokuapp.com/graph?username=dushyantDevTips&bg_color=021624&color=7E3ACD&line=7E3ACD&area=true&point=fff&hide_border:true&custom_title=Contributions"
       />
     </span>  
   </p>
