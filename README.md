@@ -273,4 +273,4 @@ console.log(me.greet());
 
 <!-- Art image -->
 
-<span align="center"><a href="https://blog.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/socialQR.png" /></a></span>
+<a href="https://www.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/socialQR.png" /></a>
