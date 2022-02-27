@@ -267,7 +267,7 @@ console.log(me.greet());
   </a>
 
   <!-- Discussion -->
-  <a href="https://github.com/dushyantDevTips/dushyantDevTips/discussions/categories/q-a" style="padding:5px">
+  <a href="https://github.com/dushyantDevTips/dushyantDevTips/discussions" style="padding:5px">
   <img src="https://img.shields.io/badge/Discussion-Drop%20by%20for%20a%20quick%20Discussion-ededed?style=flat-square&logo=GitHub&labelColor=252525">
   </a>
 
