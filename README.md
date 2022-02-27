@@ -24,6 +24,31 @@ console.log(me.greet());
 //I know ; is not required anymore,
 //but that hide and sike champion has given me nightmares in the past.
 ```
+---
+
+  <h4 align="center">My Github Stats</h4>
+ 
+  <p align="center">
+    <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=021624&hide_border=true">
+      <img
+        id=""
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=021624&hide_border=true"
+        />
+    </a>
+    <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=021624">
+      <img
+          height="160em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=021624"
+      />
+    </a>
+    <a target="_blank" href="https://git-profile-activity-graph.herokuapp.com/graph?username=dushyantDevTips&bg_color=021624&color=7E3ACD&line=7E3ACD&area=true&point=fff&hide_border:true&custom_title=Contributions">
+      <img
+          width="750em"
+          src="https://git-profile-activity-graph.herokuapp.com/graph?username=dushyantDevTips&bg_color=021624&color=7E3ACD&line=7E3ACD&area=true&point=fff&hide_border:true&custom_title=Contributions"
+      />
+    </a> 
+  </p>
 
 ---
 
@@ -251,34 +276,6 @@ console.log(me.greet());
   <a href="https://github.com/dushyantDevTips/dushyantDevTips/discussions/categories/q-a" style="padding:5px">
   <img src="https://img.shields.io/badge/Discussion-Drop%20by%20for%20a%20quick%20Discussion-ededed?style=flat-square&logo=GitHub&labelColor=252525">
   </a>
-
-</span>
-
----
-
-  <h4 align="center">My Github Stats</h4>
- 
-  <p align="center">
-    <span class="stats">
-      <img
-        id=""
-        height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=021624&hide_border=true"
-        />
-    </span>
-    <span class="stats">
-      <img
-          height="160em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=021624"
-      />
-    </span>
-    <span class="graph">
-      <img
-          width="750em"
-          src="https://git-profile-activity-graph.herokuapp.com/graph?username=dushyantDevTips&bg_color=021624&color=7E3ACD&line=7E3ACD&area=true&point=fff&hide_border:true&custom_title=Contributions"
-      />
-    </span>  
-  </p>
 
 <!-- Art image -->
 
