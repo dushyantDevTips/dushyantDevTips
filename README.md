@@ -29,23 +29,23 @@ console.log(me.greet());
   <h4 align="center">My Github Stats</h4>
  
   <p align="center">
-    <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=021624&hide_border=true">
+    <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=0A0C10&hide_border=true">
       <img
         id=""
         height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=021624&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=0A0C10&hide_border=true"
         />
     </a>
-    <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=021624">
+    <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=0A0C10">
       <img
           height="160em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=021624"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=0A0C10"
       />
     </a>
-    <a target="_blank" href="https://git-profile-activity-graph.herokuapp.com/graph?username=dushyantDevTips&bg_color=021624&color=7E3ACD&line=7E3ACD&area=true&point=fff&hide_border:true&custom_title=Contributions">
+    <a target="_blank" href="https://contribution-graph.herokuapp.com/graph">
       <img
           width="750em"
-          src="https://git-profile-activity-graph.herokuapp.com/graph?username=dushyantDevTips&bg_color=021624&color=7E3ACD&line=7E3ACD&area=true&point=fff&hide_border:true&custom_title=Contributions"
+          src="https://contribution-graph.herokuapp.com/graph"
       />
     </a> 
   </p>
