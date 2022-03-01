@@ -29,6 +29,14 @@ console.log(me.greet());
   <h4 align="center">My Github Stats</h4>
  
   <p align="center">
+      </a>
+      <a target="_blank" href="https://streak-stats.herokuapp.com?user=dushyantDevTips&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10&stroke=7E3ACD&fire=7E3ACD&ring=7E3ACD&currStreakLabel=7E3ACD">
+      <img
+          width="750em"
+          src="https://streak-stats.herokuapp.com?user=dushyantDevTips&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10&stroke=7E3ACD&fire=7E3ACD&ring=7E3ACD&currStreakLabel=7E3ACD"
+      />
+    </a>
+    <br/>
     <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=0A0C10&hide_border=true">
       <img
         id=""
@@ -41,15 +49,17 @@ console.log(me.greet());
           height="160em"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=0A0C10"
       />
-    </a>
+    <br/>
     <a target="_blank" href="https://contribution-graph.herokuapp.com/graph">
       <img
           width="750em"
           src="https://contribution-graph.herokuapp.com/graph"
       />
     </a> 
+   
+    
   </p>
-
+  <br/>
   <br/>
 
 ---
