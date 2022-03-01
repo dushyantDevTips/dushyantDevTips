@@ -242,6 +242,8 @@ console.log(me.greet());
 <img  align="left" alt="Slack" style="padding:5px" width="30px" class="tools"  src="/assets/icons/slack.svg"/></a>
 
 <br/>
+<br/>
+<br/>
 
 ---
 
