@@ -50,6 +50,24 @@ console.log(me.greet());
     </a> 
   </p>
 
+  <br/>
+
+---
+
+<h4 align="center">WakaTime Data Analysis.</h4>
+<!-- WakaTime -->
+<!--START_SECTION:waka-->
+
+```text
+Other        2 hrs 15 mins   █████████████████████▒░░░   85.21 %
+```
+
+<!--END_SECTION:waka-->
+
+<br/>
+<br/>
+<br/>
+
 ---
 
 <h4 align="center">Tech I work with.</h4>
@@ -166,6 +184,10 @@ console.log(me.greet());
   </tr>
 </table>
 
+<br/>
+<br/>
+<br/>
+
 ---
 
 <h4 align="center">Tech I'm learning.</h4>
@@ -185,6 +207,8 @@ console.log(me.greet());
   <a href="https://www.terraform.io/" target="_blank">
   <img  align="left" alt="Terraform" width="30px" class="skills" style="padding:5px"  src="/assets/icons/terraform.svg"/></a>
 
+<br/>
+<br/>
 <br/>
 
 ---
@@ -272,19 +296,14 @@ console.log(me.greet());
   <a href="https://github.com/dushyantDevTips/dushyantDevTips/discussions" style="padding:5px">
   <img src="https://img.shields.io/badge/Discussion-Drop%20by%20for%20a%20quick%20Discussion-ededed?style=flat-square&logo=GitHub&labelColor=252525">
   </a>
-  
-<!-- WakaTime -->
-<!--START_SECTION:waka-->
 
-```text
-Other        2 hrs 15 mins   █████████████████████▒░░░   85.21 %
-```
+<br/>
+<br/>
+<br/>
 
-<!--END_SECTION:waka-->
+---
 
 <!-- Art image -->
-<br/>
-<br/>
-<br/>
+
 
 <a href="https://www.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/socialQR.png" /></a>
