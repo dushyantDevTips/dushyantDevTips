@@ -37,17 +37,17 @@ console.log(me.greet());
       />
     </a>
     <br/>
-    <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=0A0C10&hide_border=true">
+    <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF">
       <img
         id=""
         height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&theme=midnight-purple&bg_color=0A0C10&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF"
         />
     </a>
-    <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=0A0C10">
+    <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&show_icons=true&include_all_commits=true&layout=compact&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF&hide=html">
       <img
           height="160em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&layout=compact&theme=midnight-purple&hide=html&hide_border=true&bg_color=0A0C10"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&show_icons=true&include_all_commits=true&layout=compact&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF&hide=html"
       />
     <br/>
     <a target="_blank" href="https://contribution-graph.herokuapp.com/graph">
