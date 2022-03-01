@@ -59,6 +59,8 @@ console.log(me.greet());
 <!--START_SECTION:waka-->
 
 ```text
+From: 30 January 2022 - To: 01 March 2022
+
 Other        2 hrs 15 mins   █████████████████████▒░░░   85.21 %
 ```
 
