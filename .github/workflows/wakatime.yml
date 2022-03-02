@@ -22,6 +22,5 @@ jobs:
           COMMIT_MESSAGE: '🪄 Auto Updates Readme file wakatime Status'
           SHOW_PROFILE_VIEWS: false
           SHOW_UPDATED_DATE: false
-          SHOW_CODE_TIME: false
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
