@@ -67,8 +67,6 @@ console.log(me.greet());
 <h4 align="center">WakaTime Data Analysis.</h4>
 <!-- WakaTime -->
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
 
 <br/>
