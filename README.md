@@ -67,7 +67,7 @@ console.log(me.greet());
 <h4 align="center">WakaTime Data Analysis.</h4>
 <!-- WakaTime -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-312-blue)
 
@@ -149,7 +149,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dushyantDevTips/dushyantDevTips/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/03/2022 09:49:17 UTC
+ Last Updated on 02/03/2022 09:51:13 UTC
 <!--END_SECTION:waka-->
 
 <br/>
