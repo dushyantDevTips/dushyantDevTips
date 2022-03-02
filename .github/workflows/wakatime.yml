@@ -17,7 +17,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: true
           COMMIT_MESSAGE: '🪄 Auto Updates Readme file wakatime Status'
           SHOW_PROFILE_VIEWS: false
