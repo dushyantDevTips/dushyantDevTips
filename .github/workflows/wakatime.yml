@@ -20,5 +20,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
           SHOW_TOTAL: true
-          TIME_RANGE: last_14_days
           COMMIT_MESSAGE: 🪄 Auto update README.md with Git hub profile WakaTime Status Data
