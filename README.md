@@ -71,6 +71,8 @@ console.log(me.greet());
 ```text
 From: 22 February 2022 - To: 01 March 2022
 
+Total Time: 23 mins
+
 Other        2 hrs 15 mins   █████████████████████▒░░░   85.21 %
 ```
 
