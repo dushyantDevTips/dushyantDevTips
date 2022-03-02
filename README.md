@@ -67,7 +67,7 @@ console.log(me.greet());
 <h4 align="center">WakaTime Data Analysis.</h4>
 <!-- WakaTime -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-460-blue)
+
 
 **🐱 My GitHub Data** 
 
