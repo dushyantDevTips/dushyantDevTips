@@ -67,6 +67,11 @@ console.log(me.greet());
 <h4 align="center">WakaTime Data Analysis.</h4>
 <!-- WakaTime -->
 <!--START_SECTION:waka-->
+
+```text
+Other        2 hrs 15 mins   █████████████████████▒░░░   85.21 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
