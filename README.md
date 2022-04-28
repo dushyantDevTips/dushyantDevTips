@@ -20,9 +20,6 @@ const dushyant = {
 };
 const me = dushyant;
 console.log(me.greet());
-
-//I know ; is not required anymore,
-//but that hide and sike champion has given me nightmares in the past.
 ```
 ---
 
@@ -67,8 +64,6 @@ console.log(me.greet());
 <h4 align="center">WakaTime Data Analysis for last 7 days.</h4>
 <!-- WakaTime -->
 <!--START_SECTION:waka-->
-
- ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
