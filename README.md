@@ -65,7 +65,9 @@ console.log(me.greet());
 <!-- WakaTime -->
 <!--START_SECTION:waka-->
 
- **🐱 My GitHub Data** 
+ ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
+**🐱 My GitHub Data** 
 
 > 🏆 133 Contributions in the Year 2022
  > 
@@ -135,7 +137,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 01:18:48 UTC 
+ Last Updated on 08/05/2022 01:25:55 UTC 
 
 <!--END_SECTION:waka-->
 
