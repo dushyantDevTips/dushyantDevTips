@@ -20,4 +20,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "True"
-          INPUT_SHOW_TOTAL_CODE_TIME: "False"
