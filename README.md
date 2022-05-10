@@ -5,7 +5,7 @@
 </h1>
 
 ```javascript
-const dushyant = {
+const DUSHYANT = {
   pronouns: () => "He" | "Him",
   role: () => "Full-stack Developer",
   language_spoken: () => ["en-US, hi-IN", "gu-IN"],
@@ -18,7 +18,7 @@ const dushyant = {
   greet: () =>
     "I'm glad you stopped by; I hope you find some of my work interesting.",
 };
-const me = dushyant;
+const me = DUSHYANT;
 console.log(me.greet());
 ```
 ---
