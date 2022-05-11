@@ -372,4 +372,4 @@ PHP                      1 repo              █░░░░░░░░░░�
 <!-- Art image -->
 
 
-<a href="https://www.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/QR-image.svg" /></a>
+<a href="https://www.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/socialQR.png" /></a>
