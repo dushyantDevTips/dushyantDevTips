@@ -34,17 +34,17 @@ console.log(me.greet());
       />
     </a>
     <br/>
-    <a target="_blank" href="github-readme-stats-reenlq9x6-devtipsmedia.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF">
+    <a target="_blank" href="https://github-readme-stats-9bmn5a2cv-devtipsmedia.vercel.app/api/top-langs/?layout=compact&include_all_commits=true&count_private=true&username=dushyantDevTips&icon_color=7E3ACD&text_color=FFFFFF&hide=html&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&custom_title=Profile%20Stats&show_icons=true">
       <img
         id=""
         height="160em"
-        src="github-readme-stats-reenlq9x6-devtipsmedia.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF"
+        src="https://github-readme-stats-9bmn5a2cv-devtipsmedia.vercel.app/api/top-langs/?layout=compact&include_all_commits=true&count_private=true&username=dushyantDevTips&icon_color=7E3ACD&text_color=FFFFFF&hide=html&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&custom_title=Profile%20Stats&show_icons=true"
         />
     </a>
-    <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&show_icons=true&include_all_commits=true&layout=compact&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF&hide=html">
+    <a target="_blank" href="https://github-readme-stats-9bmn5a2cv-devtipsmedia.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF">
       <img
           height="160em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantDevTips&show_icons=true&include_all_commits=true&layout=compact&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF&hide=html"
+          src="https://github-readme-stats-9bmn5a2cv-devtipsmedia.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF"
       />
     <br/>
     <a target="_blank" href="https://contribution-graph.herokuapp.com/graph">
