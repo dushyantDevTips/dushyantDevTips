@@ -27,10 +27,10 @@ console.log(me.greet());
  
   <p align="center">
       </a>
-      <a target="_blank" href="https://streak-stats.herokuapp.com?user=dushyantDevTips&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10&stroke=7E3ACD&fire=7E3ACD&ring=7E3ACD&currStreakLabel=7E3ACD">
+      <a target="_blank" href="https://devtips-streak-stats.herokuapp.com?user=dushyantDevTips&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10&stroke=7E3ACD&fire=7E3ACD&ring=7E3ACD&currStreakLabel=7E3ACD">
       <img
           width="750em"
-          src="https://streak-stats.herokuapp.com?user=dushyantDevTips&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10&stroke=7E3ACD&fire=7E3ACD&ring=7E3ACD&currStreakLabel=7E3ACD"
+          src="https://devtips-streak-stats.herokuapp.com?user=dushyantDevTips&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0A0C10&stroke=7E3ACD&fire=7E3ACD&ring=7E3ACD&currStreakLabel=7E3ACD"
       />
     </a>
     <br/>
