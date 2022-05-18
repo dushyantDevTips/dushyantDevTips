@@ -47,10 +47,10 @@ console.log(me.greet());
           src="https://github-readme-stats-9bmn5a2cv-devtipsmedia.vercel.app/api?username=dushyantDevTips&show_icons=true&include_all_commits=true&custom_title=Profile%20Stats&count_private=true&bg_color=0A0C10&hide_border=true&title_color=7E3ACD&icon_color=7E3ACD&text_color=FFFFFF"
       />
     <br/>
-    <a target="_blank" href="https://contribution-graph.herokuapp.com/graph">
+    <a target="_blank" href="https://devtips-activity-graph.herokuapp.com/graph?username=dushyantDevTips&custom_title=Contributions%20for%20last%2031%20days&hide_border=true&area=true&line=7E3ACD&point=FFFFFF&area_color=FFFFFF&bg_color=0A0C10&color=7E3ACD">
       <img
           width="750em"
-          src="https://contribution-graph.herokuapp.com/graph"
+          src="https://devtips-activity-graph.herokuapp.com/graph?username=dushyantDevTips&custom_title=Contributions%20for%20last%2031%20days&hide_border=true&area=true&line=7E3ACD&point=FFFFFF&area_color=FFFFFF&bg_color=0A0C10&color=7E3ACD"
       />
     </a> 
    
