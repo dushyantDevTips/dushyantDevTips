@@ -1,8 +1,4 @@
-<h1 align="center"> नमस्ते (Namaste) & Hello World
-
-<br/>
-🙏
-</h1>
+<h1 align="center"> नमस्ते 🙏 Hello World </h1>
 
 ```javascript
 const DUSHYANT = {
