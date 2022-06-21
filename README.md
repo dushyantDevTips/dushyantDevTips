@@ -261,11 +261,11 @@ PHP                      2 repos             ██░░░░░░░░░�
   <a href="https://www.typescriptlang.org/" target="_blank">
   <img  align="left" alt="TypeScript" width="30px" class="skills" style="padding:5px" src="/assets/icons/typescript.svg"/></a>
   <!-- Jenkins -->
-  <a href="https://www.jenkins.io/" target="_blank">
-  <img  align="left" alt="Gitlab" width="30px" class="skills" style="padding:5px"  src="/assets/icons/jenkins.svg"/></a>
+  <!-- <a href="https://www.jenkins.io/" target="_blank">
+  <img  align="left" alt="Gitlab" width="30px" class="skills" style="padding:5px"  src="/assets/icons/jenkins.svg"/></a> -->
   <!-- Terraform -->
-  <a href="https://www.terraform.io/" target="_blank">
-  <img  align="left" alt="Terraform" width="30px" class="skills" style="padding:5px"  src="/assets/icons/terraform.svg"/></a>
+  <!-- <a href="https://www.terraform.io/" target="_blank">
+  <img  align="left" alt="Terraform" width="30px" class="skills" style="padding:5px"  src="/assets/icons/terraform.svg"/></a> -->
 
 <br/>
 <br/>
@@ -366,4 +366,4 @@ PHP                      2 repos             ██░░░░░░░░░�
 <!-- Art image -->
 
 
-<a href="https://www.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/socialQR.png" /></a>
+<a href="https://www.devtipsmedia.com" target="_blank"><img width="100%" src="assets/images/Readme_art.png" /></a>
