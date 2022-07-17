@@ -1,88 +1,151 @@
+@import "/assets/css/fontello/css/animation.css";
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }
   :root{
-    --primary-color: #302AE6;
-    --secondary-color: #536390;
-    --font-color: #424242;
-    --bg-color: #161625;
+    --primary-color: 242, 79%, 77%;
+    --secondary-color: 224, 20%, 59%;
+    --primary-font-color: 214, 11%, 12%;
+    --secondary-font-color: 0, 0%, 45%;
+    --hero-bg-color: 38, 22%, 90%;
+    --bg-color: 0, 40%, 96%;
+
   }
 
   [data-theme="dark"] {
-    --primary-color: #9A97F3;
-    --secondary-color: #818cab;
-    --font-color: #e1e1ff;
-    --bg-color: #fff;
+    --primary-color: 268, 60%, 52%;
+    --secondary-color: 224, 27%, 45%;
+    --primary-font-color: 225, 3%, 75%;
+    --secondary-font-color: 0, 0%, 45%;
+    --hero-bg-color: 220, 23%, 5%;
+    --bg-color: 215, 21%, 11%;
   }
   body {
     font-family: sans-serif;
-    background-color: var(--bg-color);
-    color: var(--font-color);
+    background-color: hsla(var(--bg-color), 1);
+    color:hsla(var(--primary-font-color), 1); 
     max-width: 90%;
     margin: 0 auto;
     font-size: calc(1rem + 0.25vh);
 
   }
-  /*slider switch css */
-.theme-switch-wrapper {
-    display: flex;
-    align-items: center;
-    
 
+/*theme switch css start*/
+#theme-toggle {
+  cursor: pointer;
+  background: 0;
+  border: 0;
+  opacity: 0.8;
+  padding: 1rem;
+  border-radius: 50%;
+  position: relative;
+  isolation: isolate;
+}
+
+#theme-toggle::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: hsla(0, 0%, 50%, 0.2);
+  border-radius: inherit;
+  transform: scale(0);
+  opacity: 0;
+  z-index: -1;
+}
+
+.light-theme #theme-toggle::before {
+  animation: pulseToLight 650ms ease-out;
+}
+
+.dark-theme #theme-toggle::before {
+  animation: pulseToDark 650ms ease-out;
+}
+
+#theme-toggle::after {
+  content: attr(aria-label);
+  position: absolute;
+  width: max-content;
+  font-size: 1.5rem;
+  left: 0;
+  right: 0;
+  top: 95%;
+  margin: 0 auto;
+  padding: 0.5em 1em;
+  border-radius: 0.125em;
+  opacity: 0;
+  transform: scale(0);
+  transform-origin: top;
+  transition: transform 0ms linear 100ms, opacity 100ms linear;
+}
+
+#theme-toggle:hover,
+#theme-toggle:focus {
+  outline: 0;
+  opacity: 1;
+  background: hsl(0 0% 50% / 0.15);
+}
+
+#theme-toggle:hover::after,
+#theme-toggle:focus-visible::after {
+  opacity: 0.7;
+  transform: scale(1);
+  transition: transform 70ms linear, opacity 70ms linear;
+}
+
+.toggle-circle {
+  transition: transform 500ms ease-out;
+}
+
+.light-theme .toggle-circle {
+  transform: translateX(-15%);
+}
+
+.toggle-sun {
+  transform-origin: center center;
+  transition: transform 750ms cubic-bezier(0.11, 0.14, 0.29, 1.32);
+}
+
+.light-theme .toggle-sun {
+  transform: rotate(0.5turn);
+}
+
+@keyframes pulseToLight {
+  0% {
+    transform: scale(0);
+    opacity: 0.5;
   }
-  .theme-switch-wrapper .em {
-    margin-left: 10px;
-    font-size: 1rem;
+  10% {
+    transform: scale(1);
   }
-  .theme-switch {
-    display: inline-block;
-    height: 34px;
-    position: relative;
-    width: 60px;
+  75% {
+    opacity: 1;
   }
-  
-  .theme-switch input {
-    display:none;
+  100% {
+    opacity: 0;
+    transform: scale(1);
   }
-  
-  .slider {
-    background-color: #ccc;
-    bottom: 0;
-    cursor: pointer;
-    left: 0;
-    position: absolute;
-    right: 0;
-    top: 0;
-    transition: .4s;
+}
+
+@keyframes pulseToDark {
+  0% {
+    transform: scale(0);
+    opacity: 0.5;
   }
-  
-  .slider:before {
-    background-color: #fff;
-    bottom: 4px;
-    content: "";
-    height: 26px;
-    left: 4px;
-    position: absolute;
-    transition: .4s;
-    width: 26px;
+  10% {
+    transform: scale(1);
   }
-  
-  input:checked + .slider {
-    background-color: #66bb6a;
+  75% {
+    opacity: 1;
   }
-  
-  input:checked + .slider:before {
-    transform: translateX(26px);
+  100% {
+    opacity: 0;
+    transform: scale(1);
   }
-  
-  .slider.round {
-    border-radius: 34px;
-  }
-  
-  .slider.round:before {
-    border-radius: 50%;
-  }
+}
+/*theme switch css end*/
+
   
   .hero{
     height: 100vh;
