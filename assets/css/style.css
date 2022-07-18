@@ -1,47 +1,68 @@
-@import "/assets/css/fontello/css/animation.css";
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  :root{
-    --primary-color: 242, 79%, 77%;
-    --secondary-color: 224, 20%, 59%;
-    --primary-font-color: 214, 11%, 12%;
-    --secondary-font-color: 0, 0%, 45%;
-    --hero-bg-color: 38, 22%, 90%;
-    --bg-color: 0, 40%, 96%;
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-  }
+:root {
+  --clr-foreground: hsl(0 0% 0%);
+  --clr-background: hsl(0 0% 100%);
+}
 
-  [data-theme="dark"] {
-    --primary-color: 268, 60%, 52%;
-    --secondary-color: 224, 27%, 45%;
-    --primary-font-color: 225, 3%, 75%;
-    --secondary-font-color: 0, 0%, 45%;
-    --hero-bg-color: 220, 23%, 5%;
-    --bg-color: 215, 21%, 11%;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --clr-background: hsl(0 0% 0%);
+    --clr-foreground: hsl(0 0% 100%);
   }
-  body {
-    font-family: sans-serif;
-    background-color: hsla(var(--bg-color), 1);
-    color:hsla(var(--primary-font-color), 1); 
-    max-width: 90%;
-    margin: 0 auto;
-    font-size: calc(1rem + 0.25vh);
+}
+.light-theme {
+  --clr-foreground: hsl(0 0% 0%);
+  --clr-background: hsl(0, 0%, 100%);
+  --primary-color: 242, 79%, 77%;
+  --secondary-color: 224, 20%, 59%;
+  --primary-font-color: 214, 11%, 12%;
+  --secondary-font-color: 0, 0%, 45%;
+  --hero-bg-color: 38, 22%, 90%;
+  --bg-color: 0, 40%, 96%;
+}
 
-  }
+.dark-theme {
+  --clr-background: hsl(0 0% 0%);
+  --clr-foreground: hsl(0 0% 100%);
+  --primary-color: 268, 60%, 52%;
+  --secondary-color: 224, 27%, 45%;
+  --primary-font-color: 225, 3%, 75%;
+  --secondary-font-color: 0, 0%, 45%;
+  --hero-bg-color: 220, 23%, 5%;
+  --bg-color: 215, 21%, 11%;
+}
 
-/*theme switch css start*/
+body {
+  font-family: sans-serif;
+  background-color: hsla(var(--bg-color), 1);
+  color: hsla(var(--primary-font-color), 1);
+  max-width: 90%;
+  margin: 0 auto;
+  font-size: calc(1rem + 0.25vh);
+  min-height: 100vh;
+}
+
+/*theme switch css*/
 #theme-toggle {
   cursor: pointer;
   background: 0;
   border: 0;
   opacity: 0.8;
-  padding: 1rem;
+  padding: 4rem;
   border-radius: 50%;
   position: relative;
   isolation: isolate;
+}
+
+#theme-toggle svg {
+  fill: var(--clr-foreground);
 }
 
 #theme-toggle::before {
@@ -55,6 +76,8 @@
   z-index: -1;
 }
 
+
+
 .light-theme #theme-toggle::before {
   animation: pulseToLight 650ms ease-out;
 }
@@ -63,28 +86,11 @@
   animation: pulseToDark 650ms ease-out;
 }
 
-#theme-toggle::after {
-  content: attr(aria-label);
-  position: absolute;
-  width: max-content;
-  font-size: 1.5rem;
-  left: 0;
-  right: 0;
-  top: 95%;
-  margin: 0 auto;
-  padding: 0.5em 1em;
-  border-radius: 0.125em;
-  opacity: 0;
-  transform: scale(0);
-  transform-origin: top;
-  transition: transform 0ms linear 100ms, opacity 100ms linear;
-}
-
 #theme-toggle:hover,
 #theme-toggle:focus {
   outline: 0;
   opacity: 1;
-  background: hsl(0 0% 50% / 0.15);
+  background: hsla(0, 0%, 50%, 0.15);
 }
 
 #theme-toggle:hover::after,
@@ -116,12 +122,15 @@
     transform: scale(0);
     opacity: 0.5;
   }
+
   10% {
     transform: scale(1);
   }
+
   75% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
     transform: scale(1);
@@ -133,33 +142,30 @@
     transform: scale(0);
     opacity: 0.5;
   }
+
   10% {
     transform: scale(1);
   }
+
   75% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
     transform: scale(1);
   }
 }
-/*theme switch css end*/
 
-  
-  .hero{
-    height: 100vh;
-    width: 100vw;
-  }
-  @media (min-width: 35em) {
-    
-  }
-  
-  @media (min-width: 35em) and (max-width: 55em) {
-    
-  }
-  
-  @media (max-width: 35em) {
+/* hero section */
+.hero {
+  height: 100vh;
+  width: 100vw;
+}
 
-  }
-  
+
+@media (min-width: 35em) {}
+
+@media (min-width: 35em) and (max-width: 55em) {}
+
+@media (max-width: 35em) {}
