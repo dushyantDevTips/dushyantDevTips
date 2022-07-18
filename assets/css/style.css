@@ -33,7 +33,7 @@
   --clr-foreground: hsl(0 0% 100%);
   --primary-color: 268, 60%, 52%;
   --secondary-color: 224, 27%, 45%;
-  --primary-font-color: 225, 3%, 75%;
+  --primary-font-color: 0, 100%, 100%;
   --secondary-font-color: 0, 0%, 45%;
   --hero-bg-color: 220, 23%, 5%;
   --bg-color: 215, 21%, 11%;
@@ -55,7 +55,7 @@ body {
   background: 0;
   border: 0;
   opacity: 0.8;
-  padding: 4rem;
+  padding: 0.5rem;
   border-radius: 50%;
   position: relative;
   isolation: isolate;
@@ -86,8 +86,7 @@ body {
   animation: pulseToDark 650ms ease-out;
 }
 
-#theme-toggle:hover,
-#theme-toggle:focus {
+#theme-toggle:hover {
   outline: 0;
   opacity: 1;
   background: hsla(0, 0%, 50%, 0.15);
