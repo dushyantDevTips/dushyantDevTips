@@ -5,7 +5,16 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+@font-face {
+  font-family: 'git';
+  src: url('assets/css/fontello/font/git.eot?48142148');
+  src: url('assets/css/fontello/font/git.eot?48142148#iefix') format('embedded-opentype'),
+       url('assets/css/fontello/font/git.woff?48142148') format('woff'),
+       url('assets/css/fontello/font/git.ttf?48142148') format('truetype'),
+       url('assets/css/fontello/font/git.svg?48142148#git') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 :root {
   --clr-foreground: hsl(0 0% 0%);
   --clr-background: hsl(0 0% 100%);
