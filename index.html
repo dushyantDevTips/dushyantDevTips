@@ -1,33 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/fontello/css/git.css">
-    <script src="main.js" defer></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dushyant | DevTips Media</title>
-  </head>
-  <body>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/fontello/css/icon-fonts.css">
+  <script src="main.js" defer></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dushyant | DevTips Media</title>
+</head>
+
+<body>
+  <header class="primary-header flex">
+    <div>
+      <img src="/assets/images/logo.png" alt="DevTips Media Logo" class="logo" width="100px" height="100px" />
+    </div>
+
+    <button class="mobile-nav-toggle" aria-controls="primary-navigation" aria-expanded="false">
+      <span class="sr-only">Menu</span>
+    </button>
+
     <nav>
+      <ul id="primary-navigation" class="primary-navigation underline-indicators flex" data-visible="false">
+        <li class="active"><a href="index.html">HOME</a></li>
+        <li><a class="uppercase text-white letter-spacing-2" href="">ABOUT</a></li>
+        <li><a class="uppercase text-white letter-spacing-2" href="">PORTFOLIO</a></li>
+        <li><a class="uppercase text-white letter-spacing-2" href="">BLOG</a></li>
+        <li><a class="uppercase text-white letter-spacing-2" href="">CONTACT</a></li>
+      </ul>
     </nav>
-    <section class="hero">
-      <h1>Hello</h1>
-    </section>
-    <section>
-      <div>
-        <button id="theme-toggle">
-          <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 472.39 472.39">
-            <g class="toggle-sun">
-              <path d="M403.21,167V69.18H305.38L236.2,0,167,69.18H69.18V167L0,236.2l69.18,69.18v97.83H167l69.18,69.18,69.18-69.18h97.83V305.38l69.18-69.18Zm-167,198.17a129,129,0,1,1,129-129A129,129,0,0,1,236.2,365.19Z" />
-            </g>
-            <g class="toggle-circle">
-              <circle class="cls-1" cx="236.2" cy="236.2" r="103.78" />
-            </g>
-          </svg>
-        </button>
-      </div>  
-    </section>
-  </body>
+  </header>
+  
+  <section>
+    <div>
+      <button id="theme-toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 472.39 472.39">
+          <g class="toggle-sun">
+            <path
+              d="M403.21,167V69.18H305.38L236.2,0,167,69.18H69.18V167L0,236.2l69.18,69.18v97.83H167l69.18,69.18,69.18-69.18h97.83V305.38l69.18-69.18Zm-167,198.17a129,129,0,1,1,129-129A129,129,0,0,1,236.2,365.19Z" />
+          </g>
+          <g class="toggle-circle">
+            <circle class="cls-1" cx="236.2" cy="236.2" r="103.78" />
+          </g>
+        </svg>
+      </button>
+    </div>
+  </section>
+</body>
+
 </html>
